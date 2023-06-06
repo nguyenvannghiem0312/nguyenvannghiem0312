@@ -14,9 +14,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenvannghiem0312&repo=JunctionX_HANAH&theme=cobalt" />
 </a>
 
-<a href="https://github.com/nguyenvannghiem0312/Customer-Segmentation-and-Image-Compression">
+<a href="https://github.com/nguyenvannghiem0312/Customer-Seg-and-Image-Compress">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenvannghiem0312&repo=Customer-Segmentation-and-Image-Compression&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenvannghiem0312&repo=Customer-Seg-and-Image-Compress&theme=gruvbox" />
 </a>    
 <a href="https://github.com/nguyenvannghiem0312/OOP-BomberMan">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
