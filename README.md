@@ -1,9 +1,9 @@
 ### nguyenvannghiem0312 👋👋👋
-## 📫 
+## 📫 Hello World
 
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/nguyenvannghiem0312/)
 
-![Nghiem's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nguyenvannghiem0312&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+![Nghiem's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nguyenvannghiem0312&show_icons=true&theme=react&border_color=61dafb&hide_border=true)
 
 <a href="https://github.com/nguyenvannghiem0312/translation-viet-eng">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
