@@ -20,10 +20,22 @@
 </a>    
 <a href="https://github.com/nguyenvannghiem0312/OOP-BomberMan">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyenvannghiem0312&repo=OOP-BomberMan&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenvannghiem0312&repo=OOP-BomberMan&theme=dark" />
 </a>
 
 <a href="https://github.com/nguyenvannghiem0312/Floyd-Warshall-MIPS">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyenvannghiem0312&repo=Floyd-Warshall-MIPS&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenvannghiem0312&repo=Floyd-Warshall-MIPS&theme=onedark" />
 </a>    
+<a href="https://github.com/nguyenvannghiem0312/Student-Scores">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenvannghiem0312&repo=Student-Scores&theme=synthwave" />
+</a>   
+<a href="https://github.com/nguyenvannghiem0312/Diabetes">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenvannghiem0312&repo=Diabetes&theme=highcontrast" />
+</a>  
+<a href="https://github.com/nguyenvannghiem0312/newton-interpolation">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenvannghiem0312&repo=newton-interpolation&theme=radical" />
+</a>  
