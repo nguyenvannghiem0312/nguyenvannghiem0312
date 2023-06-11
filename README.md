@@ -3,7 +3,12 @@
 
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/nguyenvannghiem0312/)
 
+
+
+[![Top Langs](https://github-readme-stats-nguyenvannghiem0312.vercel.app/api/top-langs/?username=nguyenvannghiem0312&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Nghiem's github stats](https://github-readme-stats-nguyenvannghiem0312.vercel.app/api?username=nguyenvannghiem0312&show_icons=true&theme=react&border_color=61dafb&hide_border=true)
+
 
 <a href="https://github.com/nguyenvannghiem0312/translation-viet-eng">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
