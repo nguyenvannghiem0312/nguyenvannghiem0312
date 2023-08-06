@@ -9,11 +9,18 @@
 
 ![Nghiem's github stats](https://github-readme-stats-nguyenvannghiem0312.vercel.app/api?username=nguyenvannghiem0312&show_icons=true&theme=react&border_color=61dafb&hide_border=true)
 
-
+<a href="https://github.com/nguyenvannghiem0312/Recommendation_system_for_recruitment">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats-nguyenvannghiem0312.vercel.app/api/pin/?username=nguyenvannghiem0312&repo=Recommendation_system_for_recruitment&theme=highcontrast" />
+</a>    
 <a href="https://github.com/nguyenvannghiem0312/translation-viet-eng">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats-nguyenvannghiem0312.vercel.app/api/pin/?username=nguyenvannghiem0312&repo=translation-viet-eng&theme=radical" />
-</a>    
+</a>   
+<a href="https://github.com/nguyenvannghiem0312/DB_QLBV">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats-nguyenvannghiem0312.vercel.app/api/pin/?username=nguyenvannghiem0312&repo=DB_QLBV&theme=radical" />
+</a>   
 <a href="https://github.com/nguyenvannghiem0312/JunctionX_HANAH">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats-nguyenvannghiem0312.vercel.app/api/pin/?username=nguyenvannghiem0312&repo=JunctionX_HANAH&theme=cobalt" />
