@@ -1,7 +1,7 @@
 # Overview
 
 - 👋 Hi World
-- I’m interested in AI (Specifically NLP and LLMs)
+- I’m interested in AI
 - I’m currently studying Mathematics and Informatics - Hanoi University of
   Science and Technology.
 <!--
